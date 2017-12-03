@@ -1,1 +1,1 @@
-import numpy as np 
+Namaste beta !
